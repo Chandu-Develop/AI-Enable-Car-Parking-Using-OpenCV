@@ -81,4 +81,4 @@ Project Flow
         - Build Python script for Flask
     
 In this project, we created individual directories to store Python files that deal with backend and HTML, CSS files that manage the frontend part
-In this project, we built an AI model that can find space for parking the vehicle in real-time using OpenCV
+In this project, we built an AI model that can find space for parking the vehicle in the parking area in real-time using OpenCV
