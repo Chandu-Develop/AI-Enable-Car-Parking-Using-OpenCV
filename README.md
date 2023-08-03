@@ -40,6 +40,7 @@ Pre-Requisites
     
 
 Project Flow
+
     - Data Collection
     
         - Download the dataset
