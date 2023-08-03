@@ -8,6 +8,7 @@ AI-enabled car parking using OpenCV is a computer vision-based project that aims
 The system uses a camera and OpenCV (Open Source Computer Vision) library to capture live video footage of the parking lot.
 
 Pre-Requisites
+
     To complete this project you must have the following software versions and packages. 
     To make a responsive Python script you must require the following packages. 
     
